@@ -332,22 +332,6 @@ Then use it to read the password file as `bandit20`:
 
 ---
 
-## Suggested Repo Structure
-
-```text
-devops-learning-linux/
-├── README.md
-├── notes.md
-├── file-system-notes.md
-├── permissions-notes.md
-├── process-management-notes.md
-├── text-processing-notes.md
-├── hello.sh
-└── bandit-solutions.md
-```
-
----
-
 ## Notes
 
 - Save each password as you go
